@@ -1,0 +1,28 @@
+.img-2{
+    height: 40px;
+    width: auto;
+    border-radius: 50%
+}
+section{
+    padding: 60px 0;
+}
+.text-box{
+    width: 100%;
+    outline: none;
+    border-radius: 10px;
+ 
+}
+.form-label{
+    justify-content: left;
+}
+.img-fluid.img-fluid--1{
+    height:25%;
+    width: auto;
+
+
+}
+.img-1{
+    height: 40px;
+    width: auto;
+
+}
